@@ -30,10 +30,9 @@ summer internship in Data Science or AI.
 
 ### 📌 Featured Projects
 
-- 🔍 [Credit Risk ML Audit](lien) — Random Forest · SHAP · LIME · EU AI Act
-- ⚙️ [Anomaly Detection in Sensor Data](lien) — K-Means · SVM · Linear Regression
-- 🏥 [Asthma Disease Data Analysis](lien) — R · ggplot2 · tidyverse
-- 📊 [Netflix Content Analysis](lien) — Power BI · Power Query
+- 🔍 [Credit Risk ML Audit](https://github.com/Ranim-RT/credit-risk-ml-audit) — Random Forest · SHAP · LIME · EU AI Act
+- ⚙️ [Anomaly Detection in Sensor Data](https://github.com/Ranim-RT/anomaly-detection-sensor-data) — K-Means · SVM · Linear Regression
+- 🏥 [Asthma Disease Data Analysis](https://github.com/Ranim-RT/asthma-data-analysis) — R · ggplot2 · tidyverse
 
 
 ### 📫 Contact
